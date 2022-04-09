@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: StatefulSet
 metadata:
   annotations:
-    configmanagement.gke.io/cluster-selector: dc-singapore-on-prem
+    configmanagement.gke.io/cluster-selector: anthos-on-gcp
   labels:
     app: accounts-db
     tier: db
