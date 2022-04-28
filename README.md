@@ -1,1 +1,1 @@
-# anthos
+# anthos config management demo
